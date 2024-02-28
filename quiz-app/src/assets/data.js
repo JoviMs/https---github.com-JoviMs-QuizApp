@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "1.Which among these Bible verses is not in the New Testament",
+    option1: "1&2 Corinthians",
+    option2: "Lamentation",
+    option3: "James",
+    option4: "Mark",
+    ans: 2,
+  },
+  {
+    question: "Which is the greatest commandment in the bible?",
+    option1: "Preach",
+    option2: "Pray",
+    option3: "Share",
+    option4: "Love",
+    ans: 4,
+  },
+  {
+    question: "Who did Jesus see during the transfiguration?",
+    option1: "Mary and Joseph",
+    option2: "Elijah and Elisha",
+    option3: "Abraham and Elijah",
+    option4: "Elijah and Moses",
+    ans: 4,
+  },
+  {
+    question: "What was Jesus first miracle?",
+    option1: "Heal the blind",
+    option2: "Fed 5000 men",
+    option3: "Turn water to wine",
+    option4: "Raise the death",
+    ans: 3,
+  },
+  {
+    question: "Who deliver the Isrealites from the hands of the Egyptians?",
+    option1: "Moses",
+    option2: "Joshua",
+    option3: "Abraham",
+    option4: "Esther",
+    ans: 1,
+  },
+];
